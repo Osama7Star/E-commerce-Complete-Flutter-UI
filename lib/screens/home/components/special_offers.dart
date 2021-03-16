@@ -81,10 +81,10 @@ class SpecialOfferCard extends StatelessWidget {
                     gradient: LinearGradient(
                       begin: Alignment.topCenter,
                       end: Alignment.bottomCenter,
-                      colors: [
-                        Color(0xFF343434).withOpacity(0.4),
-                        Color(0xFF343434).withOpacity(0.15),
-                      ],
+                      // colors: [
+                      //   Color(0xFF343434).withOpacity(0.4),
+                      //   Color(0xFF343434).withOpacity(0.15),
+                      // ],
                     ),
                   ),
                 ),
